@@ -84,7 +84,7 @@
         <td></td>
    </tr>
 <p>Dưới đây là một số hình ảnh về chúng tôi</p>
-<img src="Pictures/quynhnhu.png" width="500" height="300" alt="Ảnh lớp 12L">
+<img src="img/quynhnhu.png" width="500" height="300" alt="Ảnh lớp 12L">
 <h2>Hãy để chúng tôi biết thêm về sở thích của bạn</h2>
   <form>
     <fieldset>
