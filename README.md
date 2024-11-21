@@ -85,9 +85,10 @@
    </tr>
 <p>Dưới đây là một số hình ảnh về chúng tôi</p>
 <img src="img/quynhnhu.png" width="500" height="300" alt="Ảnh lớp 12L">
-<video width="500" height = "800" autoplay>
+<video width="500" height = "800" controls>
 <source src="139056923044962529.mp4" type ="video/mp4">
 <source src="139056923044962529.ogg" type = "video/ogg">
+
 </video>
 <h2>Hãy để chúng tôi biết thêm về sở thích của bạn</h2>
   <form>
