@@ -1,23 +1,33 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Giới thiệu tập thể lớp 12 Lý</title>
-</head>
+<html>
+    <style>
+		h1 {color : white;
+		background-color: pink;
+		border : 70px solid pink
+		}
+        .container {
+            display: flex;
+			background-color: pink; 
+        }
+        .item {
+            flex: 1;
+            border: 1px solid pink;
+            padding: 10px;
+			color: black;
+        }
+    </style>
 <body>
-  <h1>Giới thiệu tập thể lớp 12 Lý</h1>
+  <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
-   <table id="LHT"border="1">
-   <caption>Lịch học của 12 Lý</caption>
-   <a href="#LHT"> Theo dõi lịch học của 12 Lý</a> 
-   <h1>Bạn cùng lớp</h1>
-	 <li><a href="https://www.facebook.com/profile.php?id=100067447881107&mibextid=LQQJ4d">Facebook của Quỳnh Như</a></li>
-	<li><a href="https://www.facebook.com/profile.php?id=100053544758418&mibextid=ZbWKwL">Facebook của Thúy Hằng</a></li>
-	<li><a href="https://www.facebook.com/profile.php?id=100069861226408&mibextid=LQQJ4d">Facebook của Trúc Tâm</a></li>
-	<li><a href="https://www.facebook.com/profile.php?id=100074297801155&mibextid=LQQJ4d">Facebook của Bạn Như Ý</a></li>
-	<li><a href="https://www.facebook.com/nha.thy310?mibextid=LQQJ4d">Facebook của Bạn Nhã Thy</a></li>
+   <title>Bố cục ngang</title>
+    <div class="container">
+	    <div class="item">Trang chủ </div>
+        <div class="item"><a href="qnhu.html">Quỳnh Như</a></div>
+        <div class="item"><a href="ttam.html">Trúc Tâm</a></div>
+        <div class="item"><a href="nthy.html">Nhã Thy</a></div>
+		<div class="item"><a href="thang.html">Thúy Hằng</a></div>
+		<div class="item"><a href="ny.html">Như Ý</a></div>
+    </div>
  <table border="1">
  <caption>Lịch học của 12 Lý</caption>
  <tr style="border:1px solid">
@@ -84,12 +94,9 @@
         <td></td>
    </tr>
 <p>Dưới đây là một số hình ảnh về chúng tôi</p>
-<img src="img/quynhnhu.png" width="500" height="300" alt="Ảnh lớp 12L">
-<video width="500" height = "800" controls>
-<source src="139056923044962529.mp4" type ="video/mp4">
-<source src="139056923044962529.ogg" type = "video/ogg">
-
-</video>
+<img src="img/quynhnhu.png" width="700" height="500" alt="Ảnh lớp 12L">
+<video src="video/lop.mp4" width="700" height="500" alt="3"></video>
+<video src="video/12l.mp4" width="700" height="500" alt="3"><video>
 <h2>Hãy để chúng tôi biết thêm về sở thích của bạn</h2>
   <form>
     <fieldset>
