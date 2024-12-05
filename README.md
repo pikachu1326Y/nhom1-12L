@@ -1,18 +1,18 @@
 <html>
     <style>
-		h1 {color : white;
-		background-color: pink;
-		border : 70px solid pink
-		}
+        h1 {color : white;
+	background-color: pink;
+	border : 70px solid pink
+	}
         .container {
-            display: flex;
-			background-color: pink; 
+        display: flex;
+	background-color: pink; 
         }
         .item {
             flex: 1;
             border: 1px solid pink;
             padding: 10px;
-			color: black;
+	    color: black;
         }
     </style>
 <body>
@@ -21,20 +21,20 @@
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
    <title>Bố cục ngang</title>
     <div class="container">
-	    <div class="item">Trang chủ </div>
+        <div class="item">Trang chủ </div>
         <div class="item"><a href="qnhu.html">Quỳnh Như</a></div>
         <div class="item"><a href="ttam.html">Trúc Tâm</a></div>
         <div class="item"><a href="nthy.html">Nhã Thy</a></div>
-		<div class="item"><a href="thang.html">Thúy Hằng</a></div>
-		<div class="item"><a href="ny.html">Như Ý</a></div>
+	<div class="item"><a href="thang.html">Thúy Hằng</a></div>
+	<div class="item"><a href="ny.html">Như Ý</a></div>
     </div>
- <table border="1">
+<table border="1">
  <caption>Lịch học của 12 Lý</caption>
  <tr style="border:1px solid">
     	<th rowspan="2">Bộ môn</th>
         <th rowspan="2">GV phụ trách</th>
         <th colspan="6">Ngày</th>
-   </tr>
+ </tr>
    <tr>
     	<th>Thứ 2</th>
         <th>Thứ 3</th>
