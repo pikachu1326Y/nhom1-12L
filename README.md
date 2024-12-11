@@ -1,5 +1,10 @@
 <html>
-    <style>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"content="width=device-width,initial-scale=1.0">
+<title>Trang Chủ</title>
+</head>
+ <style>
         h1 {color : white;
 	background-color: pink;
 	border : 70px solid pink
@@ -16,6 +21,8 @@
         }
     </style>
 <body>
+<h1>Đây là trang chủ</h1>
+<a href="nhom1-12L.html">Chuyển tới trang khác</a>
   <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
