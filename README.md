@@ -119,5 +119,6 @@
 	</select><br/><br/>
 	<input type="submit" value="Gửi thông tin">
    </fieldset>
+ <form/>
 </body>
 </html>
