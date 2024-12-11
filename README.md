@@ -98,7 +98,10 @@
    </tr>
 <p>Dưới đây là một số hình ảnh về chúng tôi</p>
 <img width="200" height="150" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">
-<video src="lv_7408824656813247752_20241205111702.mp4" width="700" height="500" alt="3"></video>
+<video 
+	h1>My Video</h1>
+  <video width="640" height="360" controls>
+    <source src="lv_7408824656813247752_20241205111702.mp4" type="video/mp4">
 <video src="12l.mp4" width="700" height="500" alt="3"><video>
 <h2>Hãy để chúng tôi biết thêm về sở thích của bạn</h2>
   <form>
