@@ -106,42 +106,6 @@
   <video width="640" height="360" controls>
     <source src="lv_7408824656813247752_20241205111702.mp4" type="video/mp4">
  <video src="12l.mp4" width="700" height="500" alt="3"><video>
- <h2>Hãy để chúng tôi biết thêm về sở thích của bạn</h2>
-  <form>
-   <fieldset>
-	<label for="hoten">Họ và tên</label>
-	<input id="hoten" type="text"><br/><br/>
-	<label for="ngaysinh">Ngày sinh</label>
-	<input id="ngaysinh" type="date"><br/><br/>
-	<label for="Gioitinh">Giới tính</label>
-	<input type="radio" name="gioitinh" value="Nam">Nam
-	<input type="radio" name="gioitinh" value="Nu">Nữ<br/><br/>
-	<label for="monan">Món ăn yêu thích</label><br/>
-	<input type="checkbox" name="monan" value="Com">Cơm
-	<input type="checkbox" name="monan" value="Bun">Bún
-	<input type="checkbox" name="monan" value="Banhmi">Bánh mì<br/><br/> <label for="thich">Thích</label>
-	<select id="thich" name="Thích">
-	<option value="anvat">Ăn vặt</option>
-	<option value="monlau">Món lẩu</option>
-	<option value="monnuong">Món nướng</option>
-	<option value="cacloainuoc">Các loại nước</option>
-	</select><br/><br/>
-	<input type="submit" value="Gửi thông tin">
-   </fieldset>
- </form>
-</body>
-</html>
-<a href="NHOM1-12L.html"> Quay lại trang chủ</a>
-<style>
-   .button {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color : #007bff;
-      text-decoration: none;
-      border-radius: 5px;
-}
-    .button:hover {
-       background-color: #0056a3;
-}
-</style>
+  <h2><a href="bieumau.html">Hãy để chúng tôi biết thêm về sở thích của bạn</a></h2>
+ </body>
 
