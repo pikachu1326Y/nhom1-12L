@@ -122,3 +122,17 @@
  <form/>
 </body>
 </html>
+<a href="/">Quay lại trang chủ</a>
+<style>
+   .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color : #007bff;
+      text-decoration: none;
+      border-radius: 5px;
+}
+    .button:hover {
+       background-color: #0056a3;
+}
+</style>
+
