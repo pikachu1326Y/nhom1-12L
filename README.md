@@ -22,15 +22,13 @@
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
 <a href="https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit?utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Xem thiết kế trên Canva</a>
-	
-<p><a href="bieumau.html">Hãy để chúng tôi biết thêm về sở thích của bạn</a></p>
     <div class="container">
-        <div class="item"><a href="nhom1-12L.html">Trang chủ </a></div>
         <div class="item"><a href="qnhu.html">Quỳnh Như</a></div>
         <div class="item"><a href="ttam.html">Trúc Tâm</a></div>
         <div class="item"><a href="nthy.html">Nhã Thy</a></div>
 	<div class="item"><a href="thang.html">Thúy Hằng</a></div>
 	<div class="item"><a href="ny.html">Như Ý</a></div>
+	<div class="item"><a href="bieumau.html">Hãy để chúng tôi biết thêm về sở thích của bạn</a></div>
     </div>
 <table border="1">
  <caption>Lịch học của 12 Lý</caption>
