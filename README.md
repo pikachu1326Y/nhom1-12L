@@ -94,7 +94,7 @@
         <td></td>
    </tr>
 <p>Dưới đây là một số hình ảnh về chúng tôi</p>
-<img width="1280" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">
+<img width="680" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">
 <video src="video/lop.mp4" width="700" height="500" alt="3"></video>
 <video src="video/12l.mp4" width="700" height="500" alt="3"><video>
 <h2>Hãy để chúng tôi biết thêm về sở thích của bạn</h2>
