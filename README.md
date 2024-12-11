@@ -1,9 +1,15 @@
 <html>
 <head>
+  <title>Biểu mẫu đơn giản</title>
+</head>
  <style>
         h1 {color : white;
 	background-color: pink;
 	border : 70px solid pink
+	}
+	h2 {color : pink;
+	background-color: white;
+	border : 10px solid back
 	}
         .container { display: flex;
 	background-color: pink; 
@@ -97,10 +103,10 @@
 	h1>My Video</h1>
   <video width="640" height="360" controls>
     <source src="lv_7408824656813247752_20241205111702.mp4" type="video/mp4">
-<video src="12l.mp4" width="700" height="500" alt="3"><video>
-<h2>Hãy để chúng tôi biết thêm về sở thích của bạn</h2>
+ <video src="12l.mp4" width="700" height="500" alt="3"><video>
+ <h2>Hãy để chúng tôi biết thêm về sở thích của bạn</h2>
   <form>
-    <fieldset>
+   <fieldset>
 	<label for="hoten">Họ và tên</label>
 	<input id="hoten" type="text"><br/><br/>
 	<label for="ngaysinh">Ngày sinh</label>
@@ -120,7 +126,7 @@
 	</select><br/><br/>
 	<input type="submit" value="Gửi thông tin">
    </fieldset>
-  </form>
+ </form>
 </body>
 </html>
 <a href="NHOM1-12L.html"> Quay lại trang chủ</a>
