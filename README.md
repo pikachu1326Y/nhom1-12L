@@ -122,7 +122,7 @@
  <form/>
 </body>
 </html>
-<a href="/">Quay lại trang chủ</a>
+<a href="/"<repository-name>/"class="button">Quay lại trang chủ</a>
 <style>
    .button {
       display: inline-block;
