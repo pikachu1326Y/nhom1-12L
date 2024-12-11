@@ -24,7 +24,7 @@
  <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
-<p><a href="http://https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit?utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/canva"> nội dung tin học 12.</a></p>
+<p><a href="http://https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit?utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/"> nội dung tin học 12.</a></p>
 
     <div class="container">
         <div class="item"><a href="nhom1-12L.html">Trang chủ </a></div>
