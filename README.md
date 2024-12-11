@@ -21,7 +21,8 @@
  <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
-<p><a href="http://https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit?utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/"> Nội dung tin học 12.</a></p>
+<a href="https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit?utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Xem thiết kế trên Canva</a>
+	
 <p><a href="bieumau.html">Hãy để chúng tôi biết thêm về sở thích của bạn</a></p>
     <div class="container">
         <div class="item"><a href="nhom1-12L.html">Trang chủ </a></div>
@@ -104,4 +105,4 @@
     <source src="lv_7408824656813247752_20241205111702.mp4" type="video/mp4">
  <video src="12l.mp4" width="700" height="500" alt="3"><video>
  </body>
-<a href="https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit?utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Xem thiết kế trên Canva</a>
+
