@@ -1,11 +1,8 @@
 <html>
-<head>
-  <title>Biểu mẫu đơn giản</title>
-</head>
  <style>
-        h1 {color : white;
-	background-color: pink;
-	border : 70px solid pink
+      h1 {color : white;
+      background-color: pink;
+      border : 70px solid pink
 	}
 	h2 {color : pink;
 	background-color: white;
