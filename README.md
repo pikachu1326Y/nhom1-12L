@@ -24,6 +24,7 @@
     <video controls>
         <source src="../chidan.mp4">
     </video>
+<video> src="videos/lv_7408824656813247752_20241205111702.mp4 width="200" height="150" </video>
     <div class="container">
         <div class="item"><a href="qnhu.html">Quỳnh Như</a></div>
         <div class="item"><a href="ttam.html">Trúc Tâm</a></div>
