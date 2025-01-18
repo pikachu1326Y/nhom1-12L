@@ -17,12 +17,13 @@
 	}
     </style>
 <body>
- <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
+  <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
- <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
- <a href="https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit? 
- utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Xem thiết kế trên Canva</a>
-<video> scr="videos/https://github.com/user-attachments/assets/ac7eda10-c2e5-438b-9971-132c12279006</video>
+  <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
+  <a href="https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit? 
+  utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Xem 
+ thiết kế trên Canva</a>
+ <video> scr="videos/https://github.com/user-attachments/assets/ac7eda10-c2e5-438b-9971-132c12279006</video>
     <div class="container">
         <div class="item"><a href="qnhu.html">Quỳnh Như</a></div>
         <div class="item"><a href="ttam.html">Trúc Tâm</a></div>
@@ -33,8 +34,8 @@
 	<div class="item"><a href="ny.html">Như Ý</a></div>
 	<div class="item"><a href="ny.html">Như Ý</a></div>
 	<div class="item"><a href="ny.html">Như Ý</a></div>
-	</div>
-<table border="1">
+    </div>
+ <table border="1">
  <caption>Lịch học của 12 Lý</caption>
  <tr style="border:1px solid">
     	<th rowspan="2">Bộ môn</th>
@@ -99,13 +100,14 @@
         <td></td>
         <td></td>
    </tr>
-<p>Dưới đây là một số hình ảnh về chúng tôi</p>
-<img width="200" height="150" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">
-<video 
+ <p>Dưới đây là một số hình ảnh về chúng tôi</p>
+ <img width="200" height="150" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc- 
+8d8d-a270ddb55299">
+  <video 
 	h1>My Video</h1>
   <video width="640" height="360" controls>
     <source src="lv_7408824656813247752_20241205111702.mp4" type="video/mp4">
- <video src="12l.mp4" width="700" height="500" alt="3"><video>
- </body>
+  <video src="12l.mp4" width="700" height="500" alt="3"><video>
+  </body>
  </html>
 
