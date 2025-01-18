@@ -26,6 +26,11 @@
         <div class="item"><a href="qnhu.html">Quỳnh Như</a></div>
         <div class="item"><a href="ttam.html">Trúc Tâm</a></div>
         <div class="item"><a href="nthy.html">Nhã Thy</a></div>
+    </div>
+    <div class="container">
+        <div class="item"><a href="qnhu.html">Quỳnh Như</a></div>
+        <div class="item"><a href="ttam.html">Trúc Tâm</a></div>
+        <div class="item"><a href="nthy.html">Nhã Thy</a></div>
 	<div class="item"><a href="thang.html">Thúy Hằng</a></div>
 	<div class="item"><a href="ny.html">Như Ý</a></div>
 	<div class="item"><a href="bieumau.html">Hãy để chúng tôi biết thêm về sở thích của bạn</a></div>
