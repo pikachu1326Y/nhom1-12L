@@ -20,9 +20,7 @@
   <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
   <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
-  <a href="https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit? 
-  utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Xem 
- thiết kế trên Canva</a>
+  <a href="https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/editutm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Xem thiết kế trên Canva</a>
  <video> scr="videos/https://github.com/user-attachments/assets/ac7eda10-c2e5-438b-9971-132c12279006</video>
     <div class="container">
         <div class="item"><a href="qnhu.html">Quỳnh Như</a></div>
