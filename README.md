@@ -102,5 +102,5 @@
 </html>
 <footer>
     <p>&copy; 2025 Câu Lạc Bộ Trường Học</p>
-    <p><a href="dang_ki.html">Đăng Ký Tham Gia Câu Lạc Bộ</a></p>
+    <p><a href="baitap18.html">Đăng Ký Tham Gia Câu Lạc Bộ</a></p>
 </footer>
