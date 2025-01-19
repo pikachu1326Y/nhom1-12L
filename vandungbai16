@@ -1,4 +1,10 @@
+<html>
+<head>
+    <title>Vận dụng bài 16</title>
+</head>
+<body>
 <div class="container">
   <img src="vd1.jpg" alt="Câu 1">
   <img src="vd2.jpg" alt="Câu 2">
 </div>
+</body>
