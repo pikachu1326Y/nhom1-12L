@@ -100,3 +100,7 @@
 <img width="200" height="150" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">
 </body>
 </html>
+<footer>
+    <p>&copy; 2025 Câu Lạc Bộ Trường Học</p>
+    <p><a href="dang_ki.html">Đăng Ký Tham Gia Câu Lạc Bộ</a></p>
+</footer>
