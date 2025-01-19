@@ -1,1 +1,42 @@
-
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng Ký Câu Lạc Bộ</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Liên kết file CSS -->
+</head>
+<body>
+    <header>
+        <h1>Đăng Ký Tham Gia Câu Lạc Bộ</h1>
+    </header>
+    <main>
+        <form action="submit_form.php" method="POST">
+            <label for="fullname">Họ và Tên:</label>
+            <input type="text" id="fullname" name="fullname" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="phone">Số Điện Thoại:</label>
+            <input type="tel" id="phone" name="phone" required>
+            
+            <label for="club">Chọn Câu Lạc Bộ:</label>
+            <select id="club" name="club" required>
+                <option value="bong_da">Bóng Đá</option>
+                <option value="am_nhac">Âm Nhạc</option>
+                <option value="nhiếp_anh">Nhiếp Ảnh</option>
+                <option value="sach">Câu Lạc Bộ Sách</option>
+            </select>
+            
+            <label for="message">Lời Nhắn:</label>
+            <textarea id="message" name="message" rows="4"></textarea>
+            
+            <button type="submit">Đăng Ký</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2025 Câu Lạc Bộ Trường Học</p>
+    </footer>
+</body>
+  </html>
