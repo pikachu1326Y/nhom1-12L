@@ -30,7 +30,8 @@
 	<div class="item"><a href="ny.html">Như Ý</a></div>
 	<div class="item"><a href="bieumau.html">Hãy để chúng tôi biết thêm về sở thích của bạn</a></div>
         <div class="item"><a 
-    </div>
+href="bai16.html">3 bài cuối chương</a> 
+  </div>
 <table border="1">
  <caption>Lịch học của 12 Lý</caption>
  <tr style="border:1px solid">
@@ -98,24 +99,5 @@
    </tr>
 <p>Dưới đây là một số hình ảnh về chúng tôi</p>
 <img width="200" height="150" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">
-</body>
-<html>
- <style>
-        .container { display: flex;
-	background-color: pink; 
-        }
-        .item { flex: 1;
-            border: 1px solid pink;
-            padding: 10px;
-	    color: black;
-        }
- </style>
- <body>
-    <div class="container">
-        <div class="item"><a href="baitap16.html"> Bài 16: Định dạng khung </a></div>
-        <div class="item"><a href="baitap17.html">Bài 17: Các mức ưu tiên của bộ chọn</a></div>
-        <div class="item"><a href="baitap18.html">Bài 18: Thực hành tổng hợp thiết kế trang web</a></div>
-    </div>
  </body>
-</html>	
-
+</html>
