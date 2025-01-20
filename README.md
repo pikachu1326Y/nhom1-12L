@@ -16,8 +16,8 @@
             padding: 10px;
 	    color: black;
         }
-    </style>
-<body>
+ </style>
+ <body>
  <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
@@ -30,9 +30,8 @@
 	<div class="item"><a href="ny.html">Như Ý</a></div>
 	<div class="item"><a href="bieumau.html">Hãy để chúng tôi biết thêm về sở thích của bạn</a></div>
         <div class="item"><a 
-href="bai16.html">3 bài cuối chương</a> 
-  </div>
-<table border="1">
+href="bai16.html">3 bài cuối chương</a></div>
+ <table border="1">
  <caption>Lịch học của 12 Lý</caption>
  <tr style="border:1px solid">
     	<th rowspan="2">Bộ môn</th>
@@ -99,5 +98,3 @@ href="bai16.html">3 bài cuối chương</a>
    </tr>
 <p>Dưới đây là một số hình ảnh về chúng tôi</p>
 <img width="200" height="150" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">
- </body>
-</html>
