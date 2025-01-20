@@ -31,6 +31,7 @@
 	<div class="item"><a href="bieumau.html">Hãy để chúng tôi biết thêm về sở thích của bạn</a></div>
         <div class="item"><a 
 href="bai16.html">3 bài cuối chương</a></div>
+  </div>
  <table border="1">
  <caption>Lịch học của 12 Lý</caption>
  <tr style="border:1px solid">
@@ -96,5 +97,8 @@ href="bai16.html">3 bài cuối chương</a></div>
         <td></td>
         <td></td>
    </tr>
+ </table>
 <p>Dưới đây là một số hình ảnh về chúng tôi</p>
 <img width="200" height="150" alt="quynhnhu" src="https://github.com/user-attachments/assets/dfe5084a-285b-4dfc-8d8d-a270ddb55299">
+ </body>
+</html>
