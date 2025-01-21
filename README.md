@@ -1,11 +1,5 @@
 <html>
 <style>
-	.container  {
-	background-color : #fff;
-        boder-radius: 20px;
-        padding: 100px 60px;
-	width: 200px;
-	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.2);
 	   }
         h1 {color : white;
         background-color: pink;
