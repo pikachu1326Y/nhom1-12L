@@ -1,6 +1,5 @@
 <html>
 <style>
-	   }
         h1 {color : white;
         background-color: pink;
         border : 70px solid pink
@@ -18,7 +17,7 @@
 	    color: black;
         }
      </style>
- <body style="background-image: url(https://github.com/pikachu1326Y/nhom1-12L/blob/main/95bf6631e865573b0e74.jpg);>
+ <body>
  <marquee style="color: #F8EFBA; font-weight: bold; font-size: 1.2em;>Nhóm 1 kính chào thầy Đức ạ</marquee>
   <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
