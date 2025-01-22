@@ -1,5 +1,5 @@
 <html>
-<style>
+    <style>
         h1 {color : white;
         background-color: pink;
         border : 70px solid pink
