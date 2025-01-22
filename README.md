@@ -18,7 +18,7 @@
         }
      </style>
  <body>
- <marquee><p style=" color: red; font-weight: bond; font-size: 4em"> Nhóm 1 kính chào thầy Đức ạ</p></marquee>
+ <marquee><p style=" color: red; font-weight: bond; font-size: 4em; font-family: Dancing Script;"> Nhóm 1 kính chào thầy Đức ạ</p></marquee>
   <h1>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </h1>
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
