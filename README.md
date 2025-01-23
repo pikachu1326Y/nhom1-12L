@@ -19,7 +19,7 @@
 	    color: black;
         }
         .gradient {
-           font-size: 60px;
+           font-size: 65px;
            font-weight: 700;
 	   background: linear-gradient(to right, #eb4d4b,#6ab04c);
 	   -webkit-background-clip: text;
