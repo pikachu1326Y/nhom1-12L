@@ -18,7 +18,7 @@
             padding: 10px;
 	    color: black;
         }
-        gradient {
+        .gradient {
            font-size: 100px;
            font-weight: 700;
 	   background: linear-gradient(to right, #eb4d4b,#6ab04c);
