@@ -6,6 +6,7 @@
     <title>Nhóm 1</title>
 </head>
     <style>
+	 <span class=" gradient"><p style=” font-sire: 100px; font-weight: 700; background: linear-gradient(to right, #eb4d4b,#6ab04c); -webkit-background-clip: text; color: transparent;”>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre</p></span>
 	h2 {color : pink;
 	background-color: white;
 	border : 10px solid back
@@ -18,7 +19,6 @@
             padding: 10px;
 	    color: black;
         }
-     <span class=" gradient"><p style=” font-sire: 100px; font-weight: 700; background: linear-gradient(to right, #eb4d4b,#6ab04c); -webkit-background-clip: text; color: transparent;”>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre</p></span>
      </style>
  <body>
  <marquee><p style=" color: #3c6382; font-weight: bond; font-size: 2em; font-family: Verdana;"> Nhóm 1 Kính chào thầy Đức ạ</p></marquee>
