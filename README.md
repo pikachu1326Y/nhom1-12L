@@ -7,22 +7,6 @@
     <title>Nhóm 1</title>
 </head>
     <style>
-        h1 {color : white;
-        background-color: pink;
-        border : 70px solid pink
-	   }
-	h2 {color : pink;
-	background-color: white;
-	border : 10px solid back
-	}
-        .container { display: flex;
-	background-color: pink; 
-        }
-        .item { flex: 1;
-            border: 1px solid pink;
-            padding: 10px;
-	    color: black;
-        }
 	<span class=" gradient">Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre</span>
 	 gradient {
            font-sire: 100px;
