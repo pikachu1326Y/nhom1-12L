@@ -21,7 +21,15 @@
      </style>
  <body>
  <marquee><p style=" color: #3c6382; font-weight: bond; font-size: 2em; font-family: Verdana;"> Nhóm 1 Kính chào thầy Đức ạ</p></marquee>
-<span class=" gradient"><p gradient=” font-sire: 100px; font-weight: 700; background: linear-gradient(to right, #eb4d4b,#6ab04c); -webkit-background-clip: text; color: transparent;”>Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre</p></span>
+<span class=" gradient">Nhóm 1-Lớp 12 L-Trường THPT Chuyên Bến Tre </span>
+	gradient {
+           font-sire: 100px;
+           font-weight: 700;
+	   background: linear-gradient(to right, #eb4d4b,#6ab04c);
+	   -webkit-background-clip: text;
+	   color: transparent;
+	}
+
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
 <a href="https://www.canva.com/design/DAGWURjI6TI/GzsOBQJAsZMdXbkE0_Z40w/edit?utm_content=DAGWURjI6TI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Xem thiết kế trên Canva</a>
