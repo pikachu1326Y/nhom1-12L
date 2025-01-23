@@ -6,10 +6,6 @@
     <title>Nhóm 1</title>
 </head>
     <style>
-	h1 {color : white;
-        background-color: pink;
-        border : 70px solid pink
-	   }	
 	h2 {color : pink;
 	background-color: white;
 	border : 10px solid back
