@@ -30,8 +30,7 @@
  <body>
  <marquee><p style=" color: #3c6382; font-weight: bond; font-size: 2em; font-family: Verdana;"> Nhóm 1 Kính chào thầy Đức ạ</p></marquee>
 
-  <span class=" gradient">Nhóm 1-Lớp 12 L
-  <br>Trường THPT Chuyên Bến Tre</span>
+  <span class=" gradient">Nhóm 1-Lớp 12 L<br>Trường THPT Chuyên Bến Tre</span>
 
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
