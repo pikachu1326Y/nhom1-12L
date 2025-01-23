@@ -28,7 +28,9 @@
            font-sire: 100px;
            font-weight: 700;
 	   background: linear-gradient(to right, #eb4d4b,#6ab04c);
-		  } 
+	   -webkit-background-clip: text;
+	   color: transparent;
+	} 
      </style>
  <body>
  <marquee><p style=" color: #3c6382; font-weight: bond; font-size: 2em; font-family: Verdana;"> Nhóm 1 Kính chào thầy Đức ạ</p></marquee>
