@@ -19,7 +19,7 @@
 	    color: black;
         }
         .gradient {
-           font-size: 70px;
+           font-size: 60px;
            font-weight: 700;
 	   background: linear-gradient(to right, #eb4d4b,#6ab04c);
 	   -webkit-background-clip: text;
@@ -31,7 +31,7 @@
  <marquee><p style=" color: #3c6382; font-weight: bond; font-size: 2em; font-family: Verdana;"> Nhóm 1 Kính chào thầy Đức ạ</p></marquee>
 
   <span class=" gradient">Nhóm 1-Lớp 12 L
-  <br>Trường THPT Chuyên Bến Tre</br></span>
+  <br>Trường THPT Chuyên Bến Tre</span>
 
   <p>Xin chào! Chúng tôi là học sinh lớp 12 Chuyên Lý</p>
 <p><a href="https://thptchuyenbentre.edu.vn/"> trường THPT Chuyên Bến Tre.</a></p>
